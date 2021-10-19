@@ -31,6 +31,10 @@
 *.out
 *.app
 
+# eagle backup files
+*.s#*
+*.b#*
+
 # Copyrighted images
 images/copyrighted
 images/full
