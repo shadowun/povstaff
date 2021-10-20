@@ -119,7 +119,7 @@ html_theme_options = {
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-h#tmlhelp_basename = 'RoverWingLibrarySitedoc'
+#htmlhelp_basename = 'RoverWingLibrarySitedoc'
 
 
 
