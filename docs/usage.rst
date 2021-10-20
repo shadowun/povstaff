@@ -1,6 +1,6 @@
-==========
+*********************
 User guide
-==========
+*********************
 
 
 <img src="https://github.com/shurik179/povstaff/blob//main/main_photo.jpg?raw=true" height="300" style="float:right;"/>

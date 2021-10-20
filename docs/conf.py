@@ -129,8 +129,6 @@ html_theme_options = {
 # Changes imgmath_image_format to svg (default png)
 imgmath_image_format = 'svg'
 
-#rst_epilog = """
-#.. |guide| replace:: `RoverWing User Guide`_
-
-#.. _RoverWing User Guide: https://roverwing-board.readthedocs.io
-#"""
+rst_epilog = """
+.. |github| replace:: `github repository <https://github.com/shurik179/povstaff>`__
+"""
