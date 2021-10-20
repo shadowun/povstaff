@@ -5,13 +5,14 @@ project. A detailed write-up of this project is available on  Instructables at
 you can also find there photos  of the staff in action.
 
 A guide for using the assembled staff and uploading images to it is available
-in this directory; see file USER_GUIDE.md and USER_GUIDE.pdf for PDF version.
+in directory `docs`; see file USER_GUIDE.md and USER_GUIDE.pdf for PDF version.
 
 ## Structure of this repository  
 This repository is organized as follows:
 
-* `code`: this directory contains the source code for the staff software
+
 * `binaries`: pre-complied binaries
+* `docs`: documentation
 * `hardware`:  design files for the custom PCBs used in
   the project, as well as STEP files for the 3d printed components.
 * `images`: sample image(s) and  `imagelist.txt` file

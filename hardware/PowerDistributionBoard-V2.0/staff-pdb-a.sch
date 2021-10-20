@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -1119,7 +1119,7 @@ by exp-lbrs.ulp</description>
 <busses>
 </busses>
 <nets>
-<net name="A" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="1"/>
 <pinref part="J1" gate="G$1" pin="1"/>
@@ -1133,7 +1133,7 @@ by exp-lbrs.ulp</description>
 <junction x="73.66" y="86.36"/>
 </segment>
 </net>
-<net name="B" class="0">
+<net name="S1" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="2"/>
 <pinref part="J1" gate="G$1" pin="2"/>
@@ -1147,7 +1147,7 @@ by exp-lbrs.ulp</description>
 <junction x="73.66" y="83.82"/>
 </segment>
 </net>
-<net name="C" class="0">
+<net name="S2" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="3"/>
 <pinref part="J1" gate="G$1" pin="3"/>
@@ -1161,7 +1161,7 @@ by exp-lbrs.ulp</description>
 <junction x="73.66" y="81.28"/>
 </segment>
 </net>
-<net name="D" class="0">
+<net name="VCC" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="4"/>
 <pinref part="J1" gate="G$1" pin="4"/>
