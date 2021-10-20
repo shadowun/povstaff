@@ -17,6 +17,6 @@ All design files and code are opne source.
     :caption: Table of Contents
     :maxdepth: 2
 
-    Overview
-    Build guide
-    Usage 
+    overview
+    build
+    usage

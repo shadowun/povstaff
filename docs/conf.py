@@ -24,7 +24,7 @@ is_release_build = os.environ.get('READTHEDOCS') == 'True'
 project = 'POV Staff'
 author = 'Alexander Kirillov'
 
-copyright_year = 2020
+copyright_year = 2021
 
 copyright = str(copyright_year) + ", " + str(author)
 
