@@ -39,7 +39,8 @@ to program the microcontroller and a USB charger to charge the batteries.
 
 .. toctree::
     :caption: Steps
-    :maxdepth: 1
+    :maxdepth: 2
+
     build_overview
     led_assemblies
     controller
