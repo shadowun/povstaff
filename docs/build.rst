@@ -1,7 +1,7 @@
 *********************
 Building instructions
 *********************
-Below you can find the instructions for building your own POV staff. These 
+Below you can find the instructions for building your own POV staff. These
 instructions assume that you are using a kit of parts bought from my
 `Tindie store <https://www.tindie.com/stores/irobotics/>`__. Some information
 on modifying these instructions if you want to source your components independently
@@ -13,8 +13,8 @@ You will need the following materials:
 * Kit of parts from https://www.tindie.com/stores/irobotics/
 
 * APA102 (DotStar) LED strip, 144 LED/meter, black PCB. They are  found from
-  many vendors, including  `Adafruit<>`__ and a number of vendors on
-  Amazon and Aliexpress, such as `<https://www.aliexpress.com/item/32322326979.html>`__.
+  many vendors, including  `Adafruit <https://www.adafruit.com/product/2241>`__
+  and a number of vendors on Amazon and Aliexpress, such as `<https://www.aliexpress.com/item/32322326979.html>`__.
   You need 4 strips of 50cm (72 LEDs) each; you can also buy longer strips
   and cut them into 50cm pieces. The strips should **not** be waterproofed
   (sometimes this is listed as IP30). Adafruit strips come with waterproof
@@ -34,10 +34,12 @@ You will need the following materials:
 
 In addition, you will need some spray black paint, a soldering iron, and some
 common tools: sharp knife, saw (for cutting wood dowel), diagonal cutters for
-trimming header pins, scissors.
+trimming header pins, scissors. Needless to say, you will also need a computer
+to program the microcontroller and a USB charger to charge the batteries.
 
 .. toctree::
     :caption: Steps
     :maxdepth: 1
-
     build_overview
+    led_assemblies
+    controller
